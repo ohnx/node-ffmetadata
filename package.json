@@ -1,7 +1,7 @@
 {
-  "name": "ffmetadata",
+  "name": "ffmetadata-ohnx-fork",
   "version": "1.4.0",
-  "description": "Read and write media metadata using ffmpeg",
+  "description": "Fork of @parshap's ffmetadata package",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,21 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:parshap/node-ffmetadata.git"
+    "url": "git@github.com:ohnx/node-ffmetadata.git"
   },
-  "keywords": [
-    "music",
-    "media",
-    "metadata",
-    "ffmetadata",
-    "ffmpeg",
-    "mp3",
-    "id3"
-  ],
-  "author": "Parsha Pourkhomami",
+  "keywords": [],
+  "author": "Mason X",
   "license": "Public Domain",
   "bugs": {
-    "url": "https://github.com/parshap/node-ffmetadata/issues"
+    "url": "https://github.com/ohnx/node-ffmetadata/issues"
   },
   "dependencies": {
     "concat-stream": "~1.0.0",

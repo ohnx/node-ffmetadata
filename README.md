@@ -2,6 +2,8 @@
 
 Read and write media metadata using ffmpeg's metadata framework.
 
+See https://www.npmjs.com/package/ffmetadata
+
 ## Usage
 
 ```js
